@@ -1,21 +1,30 @@
-# Felice Rosella
+<h1 align="center">Hi 👋, I'm Felice Rosella</h1>
+<h3 align="center">A passionate frontend developer from Italy</h3>
 
-<h2 align="center">About me</h2>
-<p align="center"> I am Felice Rosella. I Love ❤️  programming and currently working as BACK END DEVELOPER. </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=felicerosella&label=Profile%20views&color=0e75b6&style=flat" alt="felicerosella" /> </p>
 
-<h2 align="center">Language & Skills :alien:</h2>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python Logo" height="30" width="30">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="Html5 Logo" height="30" width="30">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" alt="Css Logo" height="30" width="30">
-  <img src="https://www.webrevolutionagency.com/wp-content/uploads/2021/05/Img-logo-Javascript-300x240.png" alt="Javascript Logo" height="30" width="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React Js" height="30" width="30">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felicerosella" alt="felicerosella" /></a> </p>
 
- </p> 
-<h3 align="center">📜 Fix the cause, not the symptom.</h3>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="300" width="300">
+- 🔭 I’m currently working on **www.sonnybono.com**
+
+- 🌱 I’m currently learning **Python Expert**
+
+- 📫 How to reach me **felicerosella@pm.me**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/felicerosella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="felicerosella" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felicerosella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felicerosella" height="30" width="40" /></a>
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=felicerosella&show_icons=true&include_all_commits=true&theme=onedark&count_private=true" alt="github stats">
-</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/felicerosella"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="felicerosella" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felicerosella&show_icons=true&locale=en&layout=compact" alt="felicerosella" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felicerosella&show_icons=true&locale=en" alt="felicerosella" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felicerosella&" alt="felicerosella" /></p>
