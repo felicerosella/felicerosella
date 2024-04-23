@@ -6,18 +6,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felicerosella" alt="felicerosella" /></a> </p>
 
 <div align="center">
-  <h3>Attualmente sto lavorando su:</h3>
-  <p>🚀 <a href="https://www.sonnybono.com" target="_blank" rel="noopener noreferrer">SonnyBono.com</a></p>
-</div>
-
-<div align="center">
   <h3>Sto approfondendo:</h3>
   <p>📘 Esperto in Python</p>
 </div>
 
 <div align="center">
   <h3>Come contattarmi:</h3>
-  <p>✉️ <a href="mailto:felicerosella@pm.me">felicerosella@pm.me</a></p>
+  <p>✉️ <a href="mailto:felicerosella@pm.me">info@felicerosella.it</a></p>
 </div>
 
 <h3 align="left">Contattami su:</h3>
