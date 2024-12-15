@@ -4,11 +4,11 @@
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=felicerosella&label=Visualizzazioni%20del%20profilo&color=0e75b6&style=flat" alt="felicerosella" />
+  <img src="https://komarev.com/ghpvc/?username=felicerosella&label=Visualizzazioni%20del%20profilo&color=0e75b6&style=flat" alt="Visualizzazioni del profilo di Felice Rosella" />
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=felicerosella&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=felicerosella&theme=onedark" alt="Trophies" /></a>
+  <a href="https://github-profile-trophy.vercel.app/?username=felicerosella&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=felicerosella&theme=onedark" alt="Trofei GitHub" /></a>
 </p>
 
 ---
@@ -16,7 +16,20 @@
 ### 🌟 Su di me:
 - 🌱 **Sto migliorando le mie competenze in:** Django, ReactJS e automazione Python.
 - 🎯 **Obiettivo attuale:** Creare dashboard e tool avanzati per la gestione dei dati.
-- 🚀 **Curioso di imparare:** tutto ciò che riguarda DevOps, Big Data e AI.
+- 🚀 **Curioso di imparare:** tutto ciò che riguarda DevOps, Big Data, AI e Cybersecurity.
+
+---
+
+### 🔐 **Cybersecurity: Una nuova sfida**
+<p align="justify">
+La cybersecurity è diventata una delle mie nuove passioni. Sono affascinato dall'arte di proteggere i dati e le infrastrutture digitali, affrontando sfide sempre più complesse. Sto attivamente imparando e mettendo alla prova le mie competenze con piattaforme come <strong>TryHackMe</strong>, dove esploro vulnerabilità, tecniche di penetration testing e analisi delle minacce.
+</p>
+
+<div align="center">
+  <a href="https://tryhackme.com/p/2992849" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/frosella.png" alt="Your Image Badge" />
+  </a>
+</div>
 
 ---
 
@@ -44,7 +57,6 @@
 </p>
 
 ---
-
 
 ### ☕ **Sostienimi:**
 <p align="center">
